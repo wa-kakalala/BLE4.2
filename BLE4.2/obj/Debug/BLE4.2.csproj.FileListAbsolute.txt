@@ -1,0 +1,14 @@
+C:\Users\29620\Desktop\BLE4.2\BLE4.2\bin\Debug\BLE4.2.exe.config
+C:\Users\29620\Desktop\BLE4.2\BLE4.2\bin\Debug\BLE4.2.exe
+C:\Users\29620\Desktop\BLE4.2\BLE4.2\bin\Debug\BLE4.2.pdb
+C:\Users\29620\Desktop\BLE4.2\BLE4.2\obj\Debug\BLE4.2.csproj.AssemblyReference.cache
+C:\Users\29620\Desktop\BLE4.2\BLE4.2\obj\Debug\BLE4.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\29620\Desktop\BLE4.2\BLE4.2\obj\Debug\BLE4._2.Form1.resources
+C:\Users\29620\Desktop\BLE4.2\BLE4.2\obj\Debug\BLE4._2.Properties.Resources.resources
+C:\Users\29620\Desktop\BLE4.2\BLE4.2\obj\Debug\BLE4.2.csproj.GenerateResource.cache
+C:\Users\29620\Desktop\BLE4.2\BLE4.2\obj\Debug\BLE4.2.csproj.CoreCompileInputs.cache
+C:\Users\29620\Desktop\BLE4.2\BLE4.2\obj\Debug\BLE4.2.exe
+C:\Users\29620\Desktop\BLE4.2\BLE4.2\obj\Debug\BLE4.2.pdb
+C:\Users\29620\Desktop\BLE4.2\BLE4.2\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\29620\Desktop\BLE4.2\BLE4.2\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\29620\Desktop\BLE4.2\BLE4.2\obj\Debug\BLE4.2.csproj.CopyComplete
